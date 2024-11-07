@@ -45,7 +45,7 @@
 | 📲 **TERMUX** | *Instalación manual predeterminada* |[ver](https://github.com/GataNina-Li/GataBot-MD/#-opción-2-instalación-manual-por-termux---github) |
 | 📲 **TERMUX** | *Instalación por archivos local* |[ver](https://github.com/GataNina-Li/GataBot-MD/#-opción-3-instalación-por-termux---archivos) |
 | 📲 **TERMUX 24/7** | *Comandos para alargar la ejecución* |[ver](https://github.com/GataNina-Li/GataBot-MD/#-usar-gatabot-247-en-termux) |
-| 📲 **TERMUX UPDATE** | *Comandos para actualizar GataBot* |[ver](https://github.com/GataNina-Li/GataBot-MD/#-actualizar-gatabot) |
+| 📲 **TERMUX UPDATE** | *Comandos para actualizar GotaBot* |[ver](https://github.com/Antonigaming/GotaBot-MD/#-actualizar-gotabot) |
 | ☁️ **SKY ULTRA PLUS** | *Activar en SkyUltraPlus* |[ver](https://github.com/GataNina-Li/GataBot-MD/tree/master#%EF%B8%8F-sky-ultra-plus) |
 | 📦⛏️ **BOXMINE HOST** | *Activar en BoxMine Host* |[ver](https://github.com/GataNina-Li/GataBot-MD#%EF%B8%8F-boxmine-host) |
 | 🟣 **HEROKU** | *Instalación directa por Heroku* |[ver](https://github.com/GataNina-Li/GataBot-MD/#-activar-en-heroku) |
