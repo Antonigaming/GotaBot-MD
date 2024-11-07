@@ -99,7 +99,7 @@ termux-setup-storage
 apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 ```bash
-git clone https://github.com/GataNina-Li/GataBot-MD && cd GataBot-MD
+git clone https://github.com/Antonigaming/GataBot-MD && cd GataBot-MD
 ```
 ```bash
 yarn install && npm install
@@ -111,7 +111,7 @@ npm start
 ----
 ### 📁 (OPCIÓN 3) INSTALACIÓN POR TERMUX - ARCHIVOS
 > **Note** Descargué y Descomprime
-### [`GataBot-MD ~ Archivos`](https://github.com/GataNina-Li/GataBot-MD/archive/refs/heads/master.zip)
+### [`GataBot-MD ~ Archivos`](https://github.com/Antonigaming/GataBot-MD/archive/refs/heads/master.zip)
 [![blog](https://img.shields.io/badge/Termux-GataBotMD-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ](https://youtu.be/UcWlyQ8u5HE)
 ```bash
